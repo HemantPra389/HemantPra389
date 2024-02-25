@@ -6,8 +6,6 @@ Flutter App Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [prajapatihemant768@gmail.com](mailto:prajapatihemant768@gmail.com)
-* 🧠  I'm currently learning Clean Architecture using TDD approach
-* 🤝  Maintainer of Hacktoberfest repo for flutter contributors
 
 ### Skills
 
